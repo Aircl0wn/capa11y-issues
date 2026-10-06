@@ -1,2 +1,4 @@
 # capa11y-issues
-A way toi report any issues with CapA11y
+A place to report any issues with CapA11y
+
+Please file any issues, accessibility or otherwise, in the issue ssection!
